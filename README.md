@@ -2,12 +2,6 @@
 
 ### 💻 Front-End Developer
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1877F2&center=true&vCenter=true&width=600&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing SVG">
-
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -27,21 +21,23 @@ const mahdi = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0066FF?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-0057FF?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-0047AB?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-003DCC?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-001F5B?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-* 🎨 Modern CSS
-* 📱 Responsive Web Design
-* ⚡ JavaScript
-* 🌐 Git & GitHub
-* ⚛️ React — Coming Soon
+* 🔵 Modern CSS
+* 🔵 Responsive Web Design
+* 🔵 JavaScript
+* 🔵 Git & GitHub
+* 🔵 React — Coming Soon
 
 ---
 
@@ -65,21 +61,12 @@ Professional Front-End Developer 🚀
 
 ## 🌐 Connect With Me
 
-<div align="left">
-
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
-<br>
+<p>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-001F5B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-### ⚡ Learn. Build. Break. Fix. Repeat.
-
-</div>
-
+### 🔵 Learn. Build. Break. Fix. Repeat.
